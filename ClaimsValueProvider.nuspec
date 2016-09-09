@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>ClaimsValueProvider</title>
+    <authors>Lenny Kean</authors>
+    <owners>Lenny Kean</owners>
+    <projectUrl>https://github.com/lennykean/ClaimsValueProvider</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Claims value provider</description>
+  </metadata>
+</package>
